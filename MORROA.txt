@@ -12,3 +12,4 @@
 *.progressplaycasinos.com
 *.progressplayltd.com
 *.luckofthespin.co.uk
+*.eltiempo.com
