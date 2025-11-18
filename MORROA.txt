@@ -421,5 +421,9 @@
 *.model19.ru/index.php?r=main/	
 *.model19.ru/index.php?r=main/	
 *.model19.ru/index.php?r=main/
-
+*.anygalleries.ru/	
+*.15gt.site/	
+*.leehany.com/	
+*.hugthatpussy.site/	
+*.berrylike.site/
 
