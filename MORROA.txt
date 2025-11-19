@@ -37,12 +37,10 @@
 *.t6.imgchili.net
 *.a2.xlteentube.com
 *.cdn2.its2.net
-*.10.zagorali.ru
 *.14gr.site
 *.14n.site
 *.15n.site
-*.6.zagorali.ru
-*.9.zagorali.ru
+*.zagorali.ru
 *.angelzland.men
 *.artu.fartoona.site
 *.anor.igopotash.site
