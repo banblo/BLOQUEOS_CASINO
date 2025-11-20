@@ -4870,3 +4870,4 @@
 *.snap.posergirls.com
 *.nnforum.gr
 *.freegalx.com
+*.banggood.com
